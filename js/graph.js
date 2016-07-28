@@ -1,6 +1,6 @@
 $(function () {
 
-var options = {
+options = {
         chart: {
             rendedTo: 'barchart',
             type: 'column',
